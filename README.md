@@ -51,15 +51,15 @@ Proyek ini sangat mudah dijalankan karena tidak memerlukan *backend* atau instal
 
 1.  **Pastikan File Lengkap:**
     Pastikan Anda memiliki tiga file utama berikut dalam satu folder yang sama:
-    * `umkm-ai.html`
+    * `index.html`
     * `style.css`
     * `script.js`
 
 2.  **Buka File HTML:**
-    Cukup klik dua kali pada file `umkm-ai.html` di file explorer Anda.
+    Cukup klik dua kali pada file `index.html` di file explorer Anda.
 
     Proyek akan langsung terbuka di *browser* Anda dan siap untuk didemonstrasikan.
 
 ---
 
-*Proyek ini dikembangkan oleh **Tim IMPHNEN** sebagai bagian dari kontribusi kami untuk digitalisasi UMKM Indonesia. Selamat menilai! 🙏*
+*Proyek ini dikembangkan oleh **Tim IMPHNEN** sebagai bagian dari kontribusi kami untuk digitalisasi UMKM Indonesia. Selamat mencoba! 🙏*
